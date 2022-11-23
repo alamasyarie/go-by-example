@@ -1,6 +1,10 @@
 package main
 
+import "fmt"
+
 func main() {
-	Range()
-	// Tes()
+	// StringsAndRunes()
+	s := "supernova"
+
+	fmt.Println(s[0])
 }
